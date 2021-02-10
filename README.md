@@ -1,2 +1,4 @@
 # BT Transfer Learning Release
-Curretn Version : 3.2
+Current Version : 3.2
+
+Download Release .zip [here](https://github.com/sanjayovs/BTTransferLearningRelease/releases/tag/V3_2)
