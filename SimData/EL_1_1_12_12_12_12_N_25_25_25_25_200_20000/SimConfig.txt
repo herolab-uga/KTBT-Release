@@ -1,0 +1,17 @@
+Zones: RGYO
+Target Counts (R,G,Y,B): 25,25,25,25
+Obstacles: False
+Scenario: EL
+Robot Combinations (I,M,R,G,Y,B): 1,1,12,12,12,12
+Coms. Range: 200
+Memory Duration (Ephi. Learn Only): 20000
+Memory Size (Ephi. Learn Only): 3
+Trials: 10
+Iterations Stop: True
+Iteration Duration (i): 20000
+Target % Stop: False
+Target (%): 0
+Record Data: True
+Data Save Path: D:\GitReposLocal\BTTransferLearning\BTTransferLearningRelease\SimData\EL_1_1_12_12_12_12_N_25_25_25_25_200_20000
+File Name: EL_1_1_12_12_12_12_N_25_25_25_25_200_20000
+Config File Name: 
