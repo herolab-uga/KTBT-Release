@@ -1,0 +1,16 @@
+Zones: RGYO
+Target Counts (R,G,Y,B): 45,18,19,18
+Obstacles: False
+Scenario: NL
+Robot Combinations (I,M,R,G,Y,B): 0,0,10,10,10,10
+Coms. Range: 200
+Memory Duration (Ephi. Learn Only): -1
+Trials: 20
+Iterations Stop: True
+Iteration Duration (i): 100000
+Target % Stop: False
+Target (%): 0
+Record Data: True
+Data Save Path: D:\Cloud Drives\OneDrive - University of Georgia\Task Learning  - Behavior Trees\KT-BT\Simulator\SimData\NL_0_0_10_10_10_10_N_45_18_19_18_200_-1
+File Name: NL_0_0_10_10_10_10_N_45_18_19_18_200_-1
+Config File Name: 
