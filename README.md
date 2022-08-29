@@ -53,6 +53,6 @@ Open the file BTTransferSimulator.exe
 The simulation parameters segment in an instant shows the parameters transfered from the settings form.
 
 <ins>Camera View:</ins> Currently there are two views available.  
-<ins># Known Conditions:</ins> Counts of robots that have knowledge about each target type.  
-<ins>Known Conditions:</ins> Number of robots that are ignorant (None), knowledge about 1, 2 3 and all targets respectively.  
-<ins>Robot States:</ins> Number of robots in different states at a given point of time/ iteration.  
+<ins># Robots that can handle:</ins> Counts of robots that have knowledge about each target type.  
+<ins># Known Conditions:</ins> Number of robots that are ignorant (None), knowledge about 1, 2 3 and all targets respectively.  
+<ins># Robot States:</ins> Number of robots in different states at a given point of time/ iteration.  
