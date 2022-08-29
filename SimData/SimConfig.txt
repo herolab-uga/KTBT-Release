@@ -7,10 +7,10 @@ Coms. Range: 200
 Memory Duration (Ephi. Learn Only): -1
 Trials: 1
 Iterations Stop: True
-Iteration Duration (i): 20000
+Iteration Duration (i): -1
 Target % Stop: False
 Target (%): 0
 Record Data: False
-Data Save Path: D:\GitReposLocal\BTTransferLearning\BTTransferLearningRelease\SimData\
+Data Save Path: D:\GitReposLocal\BTTransferLearning\BTTransferFrontendDevelop\bin\x64\Release\SimData\
 File Name: 
 Config File Name: 
