@@ -1,6 +1,6 @@
 Zones: RGYO
 Target Counts (R,G,Y,B): 25,25,25,25
-Obstacles: False
+Obstacles: True
 Scenario: RL
 Robot Combinations (I,M,R,G,Y,B): 1,1,12,12,12,12
 Coms. Range: 200
@@ -11,6 +11,6 @@ Iteration Duration (i): -1
 Target % Stop: False
 Target (%): 0
 Record Data: False
-Data Save Path: D:\GitReposLocal\BTTransferLearning\BTTransferFrontendDevelop\bin\x64\Release\SimData\
+Data Save Path: D:\GitReposLocal\BTTransferLearning\BTTransferLearningRelease\SimData\
 File Name: 
 Config File Name: 
