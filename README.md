@@ -1,9 +1,21 @@
 # KTBT-Release
+
+This simulation is based Unity 3D game engine software. It simulates a multi-robot search and rescue (or foraging) problem with different robots having different knowledge base. For example some robots know only to pick up red/blue/green/yellow targets, while some robots know all targets or no targets. All robots have basic collision avoidance and random walk routine in their knowledge base.
+The simulator has a key option: "With KT-BT". When this option is enabled, the robots can communicate with each other and explicitly share their knowledge through Behavior Trees using the KT-BT framework.
+
+
+## Installation
 #### Note: This simulation software works only on Windows 10 and Windows 11 environments.  
+
 Download the latest release [here (v4.2)](https://github.com/herolab-uga/KTBT-Release/releases/tag/v4.2).  
 After downloading the .zip file extract all the contents to a director.  
 Open the file BTTransferSimulator.exe  
+You may have to click "More Info" and "Install Anyway" if your firewall was blocking/scanning the application.
 **Note: If you are using an antivirus or antimalware sofware, you may have to add BTTransferSimulator.exe and LearnBTV1.exe files to the exclusion list.**  
+
+Once you run the application - the simulator settings Frontend will pop up. Choose your settings as described below and then click "Run Simulations" button. 
+**It will take some time to initialize and run the Unity-based simulations** (up to a minute in some cases at least in the fist trial) and eventually it will create a new window with the simulation visualization. Please wait for this process.
+
 
 ## Simulator settings panel
 ![FrontEnd](https://github.com/herolab-uga/KTBT-Release/blob/master/forWiki/FrontEnd.png)
@@ -56,3 +68,25 @@ The simulation parameters segment in an instant shows the parameters transfered 
 <ins># Robots that can handle:</ins> Counts of robots that have knowledge about each target type.  
 <ins># Known Conditions:</ins> Number of robots that are ignorant (None), knowledge about 1, 2 3 and all targets respectively.  
 <ins># Robot States:</ins> Number of robots in different states at a given point of time/ iteration.  
+
+
+## Core contributors
+
+* **Sanjay Sarma Oruganti Venkata** -- PhD Candidate, College of Engineering, University of Georgia (https://github.com/sanjayovs)
+
+* **Prof. Ramviyas Parasuraman** -- HeRoLab, School of Computing, University of Georgia (https://hero.uga.edu)
+
+* **Prof. Ramana Pidaparti** -- DICE Lab, College of Engineering, University of Georgia (https://dice.engr.uga.edu/)
+
+
+## Heterogeneous Robotics (HeRoLab)
+
+**Heterogeneous Robotics Lab (HeRoLab), School of Computing, University of Georgia.** http://hero.uga.edu 
+
+For further information, contact sanjaysarmaov@uga.edu or Dr. Ramviyas Parasuraman ramviyas@uga.edu
+
+http://hero.uga.edu/
+
+<p align="center">
+<img src="http://hero.uga.edu/wp-content/uploads/2021/04/herolab_newlogo_whitebg.png" width="300">
+</p>
