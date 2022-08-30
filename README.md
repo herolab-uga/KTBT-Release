@@ -30,9 +30,9 @@ Once you run the application - the simulator settings Frontend will pop up. Choo
 
 <ins>Robot Types:</ins> There are 3 types of robots, 
 &nbsp;  
-1. ignorant- that have no initial knowledge
-2. multi-target - that have knowledge about all the targets
-3. robots that have knowledge about red, green, yellow and blue colors.
+1. I -Ignorant - Robots that have no initial knowledge about any of the targets
+2. M - Multi-target - Robots that have knowledge about all the targets
+3. R/G/Y/B - Single-target - Robots that have knowledge about red, green, yellow and blue colors.
 
 <ins>Communication Range:</ins> The range within which it can communicate with its neighbors. This is measured in times of the size of the robot.  
 <ins>Total Trials:</ins> The number of trials to conduct for data collection  
