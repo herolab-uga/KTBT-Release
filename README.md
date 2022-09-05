@@ -3,6 +3,9 @@
 This simulation is based Unity 3D game engine software. It simulates a multi-robot search and rescue (or foraging) problem with different robots having different knowledge base. For example some robots know only to pick up red/blue/green/yellow targets, while some robots know all targets or no targets. All robots have basic collision avoidance and random walk routine in their knowledge base.
 The simulator has a key option: "With KT-BT". When this option is enabled, the robots can communicate with each other and explicitly share their knowledge through Behavior Trees using the KT-BT framework.
 
+## Video Explanation  
+[![IMAGE ALT TEXT HERE](https://youtu.be/FNxja8SzN-w/0.jpg)](https://youtu.be/FNxja8SzN-w)
+
 
 ## Installation
 #### Note: This simulation software works only on Windows 10 and Windows 11 environments.  
