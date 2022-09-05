@@ -4,7 +4,8 @@ This simulation is based Unity 3D game engine software. It simulates a multi-rob
 The simulator has a key option: "With KT-BT". When this option is enabled, the robots can communicate with each other and explicitly share their knowledge through Behavior Trees using the KT-BT framework.
 
 ## Video Explanation  
-[![IMAGE ALT TEXT HERE](https://youtu.be/FNxja8SzN-w/0.jpg)](https://youtu.be/FNxja8SzN-w)
+[![Click for video](https://img.youtube.com/vi/FNxja8SzN-w/0.jpg)](https://youtu.be/FNxja8SzN-w)
+
 
 
 ## Installation
