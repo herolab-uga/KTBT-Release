@@ -13,12 +13,12 @@ Click below!
 #### Note: This simulation software works only on Windows 10 and Windows 11 environments.  
 
 Download the latest release [here (v4.2)](https://github.com/herolab-uga/KTBT-Release/releases/tag/v4.2).  
-After downloading the .zip file extract all the contents to a director.  
+After downloading the .zip file extract all the contents to a directory.  
 Open the file BTTransferSimulator.exe  
-You may have to click "More Info" and "Install Anyway" if your firewall was blocking/scanning the application.
+You may have to click "More Info" and "Install Anyway" if your firewall blocks/scans the application.
 **Note: If you are using an antivirus or antimalware sofware, you may have to add BTTransferSimulator.exe and LearnBTV1.exe files to the exclusion list.**  
 
-Once you run the application - the simulator settings Frontend will pop up. Choose your settings as described below and then click "Run Simulations" button. 
+Once you run the application - the simulator settings Frontend will pop up. Choose your settings as described below and click "Run Simulations" button. 
 **It will take some time to initialize and run the Unity-based simulations** (up to a minute in some cases at least in the fist trial) and eventually it will create a new window with the simulation visualization. Please wait for this process.
 
 
