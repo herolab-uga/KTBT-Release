@@ -3,8 +3,14 @@
 This simulation is based Unity 3D game engine software. It simulates a multi-robot search and rescue (or foraging) problem with different robots having different knowledge base. For example some robots know only to pick up red/blue/green/yellow targets, while some robots know all targets or no targets. All robots have basic collision avoidance and random walk routine in their knowledge base.
 The simulator has a key option: "With KT-BT". When this option is enabled, the robots can communicate with each other and explicitly share their knowledge through Behavior Trees using the KT-BT framework.
 
+## Paper Citation
+The full publication is available in ArXiv: https://arxiv.org/abs/2209.02886 
+
+If you use/refer to our work, please consider citing the below paper.
+* Sarma Oruganti Venkata, Sanjay, Ramviyas Parasuraman, and Ramana Pidaparti. "KT-BT: A Framework for Knowledge Transfer Through Behavior Trees in Multi-Robot Systems." arXiv e-prints (2022): arXiv-2209.
+
 ## Video Explanation  
-Click below!
+Click below for a video presentation KT-BT works with a demonstration of BT transfer.
 [![Click for video](https://github.com/herolab-uga/KTBT-Release/blob/master/VideoTitle.png)](https://youtu.be/FNxja8SzN-w)
 
 
