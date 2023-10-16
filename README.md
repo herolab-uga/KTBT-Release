@@ -4,10 +4,11 @@ This simulation is based Unity 3D game engine software. It simulates a multi-rob
 The simulator has a key option: "With KT-BT". When this option is enabled, the robots can communicate with each other and explicitly share their knowledge through Behavior Trees using the KT-BT framework.
 
 ## Paper Citation
-The full publication is available in ArXiv: https://arxiv.org/abs/2209.02886 
 
 If you use/refer to our work, please consider citing the below paper.
-* Sarma Oruganti Venkata, Sanjay, Ramviyas Parasuraman, and Ramana Pidaparti. "KT-BT: A Framework for Knowledge Transfer Through Behavior Trees in Multi-Robot Systems." arXiv e-prints (2022): arXiv-2209.
+* S. S. O. Venkata, R. Parasuraman and R. Pidaparti, "KT-BT: A Framework for Knowledge Transfer Through Behavior Trees in Multirobot Systems," in IEEE Transactions on Robotics, vol. 39, no. 5, pp. 4114-4130, Oct. 2023, doi: 10.1109/TRO.2023.3290449.
+
+The preprint of the publication is available in ArXiv: https://arxiv.org/abs/2209.02886 
 
 ## Video Explanation  
 Click below for a video presentation KT-BT works with a demonstration of BT transfer.
