@@ -93,12 +93,12 @@ The simulation parameters segment in an instant shows the parameters transfered 
 
 ## Heterogeneous Robotics (HeRoLab)
 
-**Heterogeneous Robotics Lab (HeRoLab), School of Computing, University of Georgia.** http://hero.uga.edu 
+**Heterogeneous Robotics Lab (HeRoLab), School of Computing, University of Georgia.**  
 
 For further information, contact sanjaysarmaov@uga.edu or Dr. Ramviyas Parasuraman ramviyas@uga.edu
 
-http://hero.uga.edu/
+https://hero.uga.edu/
 
 <p align="center">
-<img src="http://hero.uga.edu/wp-content/uploads/2021/04/herolab_newlogo_whitebg.png" width="300">
+<img src="https://herolab.org/wp-content/uploads/2021/04/herolab_newlogo_whitebg.png" width="300">
 </p>
